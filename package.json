@@ -1,5 +1,5 @@
 {
-  "name": "blogapi",
+  "name": "m5-d2",
   "version": "1.0.0",
   "description": "",
   "nodemonConfig": {
@@ -12,7 +12,7 @@
     "dev": "nodemon ./src/server.js"
   },
   "keywords": [],
-  "author": "Mohammadamin Sajedian",
+  "author": "Abdulkadir Salad",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
